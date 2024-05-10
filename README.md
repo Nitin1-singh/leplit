@@ -2,14 +2,20 @@
 
 An online coding platform
 
+## Architecture
+![diagram-export-10-5-2024-1_32_18-pm](https://github.com/Nitin1-singh/play.com/assets/148739561/b17f5a78-ea4f-435c-81af-3c50f3e3a53e)
+
 ## Preview
+
+- Node js
+  ![node-js](https://github.com/Nitin1-singh/play.com/assets/148739561/7016c6aa-4f56-4268-8938-99c0f85d9ff4)
+- python
+  ![python](https://github.com/Nitin1-singh/play.com/assets/148739561/69c2153c-330f-442a-8223-8d19220da3d6)
 - Note preview are not working please download the video it should work
 
-https://github.com/Nitin1-singh/next-tweet-web/assets/148739561/a6915bb0-94e9-4232-9e47-c02652d3c27e
+- ![download python](https://github.com/Nitin1-singh/next-tweet-web/assets/148739561/a6915bb0-94e9-4232-9e47-c02652d3c27e)
 
-https://github.com/Nitin1-singh/next-tweet-web/assets/148739561/c58ad9e9-d0f1-4fa5-b8a2-0daad1ff7c76
-
-
+- ![download node-js](https://github.com/Nitin1-singh/next-tweet-web/assets/148739561/c58ad9e9-d0f1-4fa5-b8a2-0daad1ff7c76)
 
 ## Technology used
 - Typescript
